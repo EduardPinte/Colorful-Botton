@@ -1,0 +1,9 @@
+.btn-secondary{
+    background-color:blue;
+    color: aliceblue;
+    padding: 15px ;
+    border: none;
+    border-radius: 5px;
+    font-weight:bold;
+
+}
