@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f4f6;
+
+}
+
+.card {
+    background: white;
+    width: 250px;
+    padding: 20px;
+}
+
+.card h1 {
+    font-size: 32px;
+    margin: 5px 0;
+    color: black;
+}
+
+.card p {
+    font-size: 14px;
+    color: #878584;
+    margin-left: 30px;
+    text-align: left;
+}
+
+.stats {
+    background: #f3f4f6;
+    padding: 30px;
+    text-align: left;
+}
+
+.stats i {
+    color: red;
+}
+
+.stats span {
+    color: red;
+    font-weight: bold;
+}
